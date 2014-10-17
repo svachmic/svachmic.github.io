@@ -1,0 +1,18 @@
+# Site settings
+title: Michal's blog
+email: svacha@msn.com
+description: > # this means to ignore newlines until "baseurl:"
+  Fourth and hopefully last attempt to have a blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://svachmic.github.io" # the base hostname & protocol for your site
+twitter_username: miguelitinho
+github_username:  svachmic
+
+# Build settings
+markdown: kramdown
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
