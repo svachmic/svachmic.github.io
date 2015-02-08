@@ -1,5 +1,5 @@
 ##The website title
-name: Blog Name
+name: Miguelitinho's pensieve
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
@@ -28,7 +28,7 @@ keywords: iOS, UX, Career, Thought of the day
 links:
   #facebook: username
   twitter: miguelitinho
-  email: svacha(at)msn(dot)com
+  #email: svacha(at)msn(dot)com
   github: svachmic
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
