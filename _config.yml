@@ -1,18 +1,37 @@
-# Site settings
-title: Michal's blog
-email: svacha@msn.com
-description: > # this means to ignore newlines until "baseurl:"
-  Fourth and hopefully last attempt to have a blog.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://svachmic.github.io" # the base hostname & protocol for your site
-twitter_username: miguelitinho
-github_username:  svachmic
-
-# Build settings
+##The website title
+name: Michalova myslánka
+##Markdown processor
 markdown: kramdown
+##syntax highlighter. change it to pygments
+highlighter: pygments
 
-gems:
-- jekyll-mentions
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: http://svachmic.github.io #(or http://example.com)
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Put website description for your home page. (about 50 words or more)
+##Some frequently used keywords on your website
+keywords: iOS, UX, Career, Thought of the day
+
+##define this for disqus comment support
+#disqus: forumname
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  #facebook: username
+  twitter: miguelitinho
+  #email: svacha(at)msn(dot)com
+  github: svachmic
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: placeholder.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
