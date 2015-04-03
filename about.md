@@ -8,3 +8,6 @@ sitemap:
 ---
 # About
 This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+
+<!-- {{ site | tag_cloud }} --> 
