@@ -1,10 +1,15 @@
 ---
 layout: page
 title: About
-sitemap:
-    priority: 1.0
-    changefreq: weekly
-    lastmod: 2014-09-07T16:31:30+05:30
+permalink: /about/
 ---
-# About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jekyll" %} /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
