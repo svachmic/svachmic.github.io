@@ -3,7 +3,7 @@ layout: post
 title:  "Jak jsem se neučil rychle"
 date:   2015-04-25 10:00:00
 categories: personal
-tags: [czech, opinion, learning]
+tags: [czech, opinion, education]
 ---
 
 > Varování: Tento příspěvek je velmi kritický vůči "moderním přístupům" a vyjadřuje spoustu mých názorů, které mohou někteří shledat nepohodlnými. V případě psychické újmy jste byli varováni.
