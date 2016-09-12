@@ -97,7 +97,7 @@ Cítím zášť nebo nenávist? Ale vůbec. Zkusím to znovu? Zcela určitě! A�
 [google-students]: https://www.google.com/about/careers/students/
 [crack-code]: http://www.amazon.com/Cracking-Coding-Interview-Fourth-Programming/dp/145157827X/ref=sr_1_3?s=books&ie=UTF8&qid=1417516701&sr=1-3&keywords=cracking+code+interview
 [PAL]: https://cw.felk.cvut.cz/wiki/courses/a4m33pal/start
-[DSA]: http://edux.feld.cvut.cz/courses/A7B36DSA/
+[DSA]: https://www.fel.cvut.cz/cz/education/bk_peo/predmety/13/92/p1392106.html
 [HE]: http://www.hackerearth.com/
 [TC]: http://www.topcoder.com
 [bzip]: http://www.bzip.org/
