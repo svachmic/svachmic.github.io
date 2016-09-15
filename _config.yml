@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 5th blog
+title: FIFTH
 author: Michal Švácha
 claim: Attempting blogging. Again.
 
@@ -24,6 +24,7 @@ keywords: "education, software, programming, czech, career"
 
 baseurl: ""
 url: "https://svachmic.github.io"
+#url: "http://127.0.0.1:4000"
 
 twitter_username: miguelitinho
 github_username: svachmic
