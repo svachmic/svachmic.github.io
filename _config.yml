@@ -23,8 +23,8 @@ description: >
 keywords: "education, software, programming, czech, career"
 
 baseurl: ""
-#url: "https://svachmic.github.io"
-url: "http://127.0.0.1:4000"
+url: "https://svachmic.github.io"
+#url: "http://127.0.0.1:4000"
 
 twitter_username: miguelitinho
 github_username: svachmic
