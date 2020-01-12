@@ -2,7 +2,7 @@
 layout: post
 title:  "Jak jsem promoval"
 author: Michal
-date:   2015-09-17 10:00:00
+date:   2016-09-17 10:00:00
 categories: education
 tags: [czech, education]
 ---
