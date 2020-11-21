@@ -1,23 +1,18 @@
-# FIFTH
-
-This is my personal blog devoted to...really anything that comes on my mind. Sometimes I'll be critical, sometimes I'll try to be funny and sometimes I'll just share something I find interesting. This is basically my wall of scribbles, notes that I've put together hoping to make some sense out of them.
-
-## Creating new post
-
-My workflow is - fork the master and name the branch pages-... where '...' is the name of the post. I do all of my drafting there and when I feel ready, I publish the post online by merging the branch into the master.
-
-## Deployment
+<p align="center">
+  <a href="https://svachmic.github.io">
+    <img alt="Gatsby" src="./assets/favicon/android-chrome-192x192.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  ⚠️ DEPRECATED
+</h1>
 
 [![Build Status](https://travis-ci.org/svachmic/svachmic.github.io.svg?branch=master)](https://travis-ci.org/svachmic/svachmic.github.io)
 
-The blog is deployed via GitHub pages, using Travis CI to check everything and to make sure I didn't break anything. Travis handles everything for me regarding crosslink validation, CSS linking etc. Pretty neat, eh?
+This repository contains an old incarnation of my personal blog. Now in place only for old readers to navigate to the new one - [svachmic.cz](https://www.svachmic.cz).
 
-## License
+## ⚖️ License
 
-### Code
+MIT license 
 
-The code is released under the MIT license. See LICENSE for details.
-
-### Posts
-
-All text on the website is licensed under the Creative Commons Attribution 4.0 International Licence. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+See [LICENSE](LICENSE) for details.

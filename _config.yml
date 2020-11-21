@@ -16,22 +16,29 @@
 
 title: FIFTH
 author: Michal Švácha
-claim: Attempting blogging. Again.
+claim: Permanently moved.
 
 description: >
-  Fifth incarnation of my personal blog. This time it's different...trust me.
+  Old incarnation of my personal blog.
 keywords: "education, software, programming, czech, career"
 
 baseurl: ""
 url: "https://svachmic.github.io"
-#url: "http://127.0.0.1:4000"
 
-twitter_username: miguelitinho
-github_username: svachmic
-google_analytics: UA-61928196-1
+header_pages:
+  - _pages/about.md
+  - _pages/tags.md
 
-# Build settings
+include:
+  - _pages
+
+minima:
+  social_links:
+    twitter: miguelitinho
+    github: svachmic
+
+google_analytics:
+
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-seo-tag
